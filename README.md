@@ -12,6 +12,9 @@ An awesome list of websites and the source code behind them.
 ## Vue
 - [VuePress](https://vuepress.vuejs.org/) &mdash; ([Repo](https://github.com/vuejs/vuepress))
 
+## Markdown
+- [Parcel](https://parceljs.org) &mdash; ([Repo](https://github.com/parcel-bundler/website))
+
 ## Pug
 - [Milligram](https://milligram.io/) &mdash; ([Repo](https://github.com/milligram/milligram.github.io))
 
