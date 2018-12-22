@@ -2,9 +2,10 @@
 An awesome list of websites and the source code behind them.
 
 ## React
-- [Babel Docs](https://babeljs.io/docs/en/index.html) &mdash; ([Repo](https://github.com/babel/website))
+- [Babel Docs](https://babeljs.io/docs/) &mdash; ([Repo](https://github.com/babel/website))
 - [React Native](https://facebook.github.io/react-native/) &mdash; ([Repo](https://github.com/facebook/react-native-website))
 - [Serverless](https://www.serverless.com/) &mdash; ([Repo](https://github.com/serverless/site))
+- [Yarn](https://yarnpkg.com/) &mdash; ([Repo](https://github.com/yarnpkg/website))
 
 ## Angular
 - [Ionic](https://ionicframework.com/) &mdash; ([Repo](https://github.com/ionic-team/ionic-site))
@@ -13,7 +14,7 @@ An awesome list of websites and the source code behind them.
 - [VuePress](https://vuepress.vuejs.org/) &mdash; ([Repo](https://github.com/vuejs/vuepress))
 
 ## Markdown
-- [Parcel](https://parceljs.org) &mdash; ([Repo](https://github.com/parcel-bundler/website))
+- [Parcel](https://parceljs.org/) &mdash; ([Repo](https://github.com/parcel-bundler/website))
 
 ## Pug
 - [Milligram](https://milligram.io/) &mdash; ([Repo](https://github.com/milligram/milligram.github.io))
