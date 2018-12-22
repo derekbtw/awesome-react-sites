@@ -6,6 +6,9 @@ An awesome list of websites and the source code behind them.
 - [React Native](https://facebook.github.io/react-native/) - ([Repo](https://github.com/facebook/react-native-website))
 - [Serverless](https://www.serverless.com/) - ([Repo](https://github.com/serverless/site))
 
+## Angular
+- [Ionic](https://ionicframework.com/) - ([Repo](https://github.com/ionic-team/ionic-site))
+
 ## Pug
 - [Milligram](https://milligram.io/) - ([Repo](https://github.com/milligram/milligram.github.io))
 
